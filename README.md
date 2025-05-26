@@ -1,2 +1,2 @@
 # caesar-shift-encryption
-This project implements the classic Caesar Cipher encryption technique in C++. It includes modularized functions for encrypting and decrypting single characters and full strings using a numeric key, as well as a brute-force decryption function to explore all possible shifts. 
+This project implements the classic Caesar Cipher encryption technique in C++. It includes modularized functions for encrypting and decrypting single characters and full strings using a numeric key, as well as a brute-force decryption function to explore all possible shifts. The code is organized across a header file (caesar.h), an implementation file (caesar.cpp), and a driver program (main.cpp) that demonstrates each feature in action.
